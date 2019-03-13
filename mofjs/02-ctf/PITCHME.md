@@ -4,13 +4,13 @@
 
 ---?include=common/about-me/PITCHME.md
 
----?image=mofjs/02-ctf/images/halo-ctf.jpg
+---?image=mofjs/02-ctf/images/halo-ctf.jpg&opacity=20
 
-## Apakah itu CTF??
+## @color[white](Apakah itu CTF??)
 
-_Capture The Flag_, sebuah kompetisi di bidang keamanan informasi praktis.
+@color[white](_Capture The Flag_, sebuah kompetisi di bidang keamanan informasi praktis.)
 
-Seperti sebuah permainan _paintball_ atau tembak-tembakan yang bertujuan merebut bendera dari markas lawan.
+@color[white](Seperti sebuah permainan _paintball_ atau tembak-tembakan yang bertujuan merebut bendera dari markas lawan.)
 
 ---
 
