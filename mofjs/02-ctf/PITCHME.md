@@ -59,13 +59,15 @@ Format biasanya dibuat dengan format nama kompetisi dan deretan karakter acak ya
 
 ## Format soal/tantangan (Jeopardy style)
 
-![Challenge](mofjs/02-ctf/challenge.png)
-
 - Memiliki Judul dan deskripsi yang bisa jadi petunjuk celah keamanan
 - Kategori tantangan, tingkat kesulitan, nilai
 - Statistik (_solves_, _challenger_)
 - Lampiran _file_ yang bisa diunduh (biasanya dalam bentuk zip dengan nama file sesuai hash)
 - Alamat service pada server yang sudah disiapkan, beserta binary executable service tersebut (untuk kategori pawning/binary exploit)
+
+---
+
+![Challenge](mofjs/02-ctf/images/challenge.png)
 
 ---
 
