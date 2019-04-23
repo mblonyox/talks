@@ -33,6 +33,7 @@ Note:
 ![Cloud Services](mofjs/03-firebase/images/iaas-paas-saas-example.png)
 
 ---
+@title[Firebase]
 
 # Firebase
 
@@ -148,8 +149,8 @@ Note:
 
 ### Cloud Functions (cont...)
 
-- FaaS => Functions as a Service
-- fungsi bisa dijalankan dengan http request (membuat REST API)
+- FaaS: Functions as a Service
+- fungsi bisa dijalankan dengan http request (HTTP Server)
 - fungsi bisa dipicu karena perubahan di database, registrasi user, upload file, dll.
 - Node.js v6.x atau v8.x
 
@@ -165,6 +166,7 @@ Note:
 - A/B Testing
 
 ---
+@title[Demo]
 
 # Percobaan
 
