@@ -30,7 +30,7 @@ Note:
 
 ## Layanan Cloud Computing
 
-![Cloud Services](mofjs/03-firebase/images/iaas-paas-saas-example.png)
+![Cloud Services](mofjs/03-firebase/images/iaas-paas-saas-example.png&size=contain)
 
 ---
 
@@ -42,7 +42,7 @@ Note:
 
 ## Sejarah singkat
 
-![Firebase Team](mofjs/03-firebase/images/firebase-team.jpg)
+![Firebase Team](mofjs/03-firebase/images/firebase-team.jpg&size=contain)
 
 ---
 
@@ -72,15 +72,11 @@ Note:
 
 - layanan autentikasi pengguna
 - tampilan login siap pakai
-- provider beragam:
+- metode login:
   - Email & Password
   - Nomor telephon
-  - Google
-  - Facebook
-  - Twitter
-  - Microsoft
-  - Yahoo
-  - Github
+  - Google, Facebook, Twitter, Microsoft, Yahoo, Github
+  - Anonim
 - Custom authentication
 
 ---
