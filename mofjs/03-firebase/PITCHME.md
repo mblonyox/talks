@@ -1,10 +1,15 @@
 @title[Judul]
 
-# Cloud Computing: Firebase - Pengenalan dan percobaan
+# Cloud Computing:
+## Firebase - Pengenalan dan percobaan
 
 ---?include=common/about-me/PITCHME.md
 
-### Saya bukan agen Google dan bukan bermaksud mempromosikan, tapi hanya ingin berbagi pengalaman
+## Disclaimer:
+
+> Saya bukan agen Google ataupun GDE
+> tidak bermaksud mempromosikan,
+> tapi hanya ingin berbagi pengalaman
 
 ---
 
@@ -61,6 +66,10 @@ Note:
 
 ![Firebase Auth](mofjs/03-firebase/images/firebase-auth.png)
 
+---
+
+### Authentication (cont...)
+
 - layanan autentikasi pengguna
 - tampilan login siap pakai
 - provider beragam:
@@ -78,7 +87,11 @@ Note:
 
 ## Realtime Database & Cloud Firestore
 
-![Firebase RTDB](mofjs/03-firebase/images/firebase-rtdb.jpg)
+![Firebase RTDB](mofjs/03-firebase/images/firebase-rtdb.gif)
+
+---
+
+### Realtime Database & Cloud Firestore (cont...)
 
 - cloud-hosted NoSQL database
 - real time syncing
@@ -90,6 +103,10 @@ Note:
 ## Hosting
 
 ![Firebase Hosting](mofjs/03-firebase/images/firebase-hosting.jpg)
+
+---
+
+### Hosting (cont...)
 
 - static site hosting
 - global CDN
@@ -104,6 +121,9 @@ Note:
 
 ![Firebase Storage](mofjs/03-firebase/images/firebase-storage.jpg)
 
+---
+### Cloud Storage (cont...)
+
 - upload file/content
 - menggunakan Google Cloud Storage
 - simple folder/file system
@@ -114,6 +134,10 @@ Note:
 
 ![Firebase Messaging](mofjs/03-firebase/images/firebase-messaging.png)
 
+---
+
+### Cloud Messaging (cont...)
+
 - push message service
 - target segment / topic subscriber
 - layanan GCM disatukan dengan FCM
@@ -123,6 +147,10 @@ Note:
 ## Cloud Functions
 
 ![Firebase Functions](mofjs/03-firebase/images/firebase-functions.png)
+
+---
+
+### Cloud Functions (cont...)
 
 - FaaS => Functions as a Service
 - fungsi bisa dijalankan dengan http request (membuat REST API)
