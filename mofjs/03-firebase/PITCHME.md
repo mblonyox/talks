@@ -10,7 +10,7 @@
 
 ## Cloud Computing ??
 
----?image=mofjs/03-firebase/images/cloud-1.png
+![Cloud Computing](mofjs/03-firebase/images/cloud-1.png)
 
 Note:
 - https://blogs.cisco.com/cloud/cloud-the-truth-is-out-there
@@ -19,25 +19,25 @@ Note:
 
 ## Cakupan Cloud Computing
 
----?image=mofjs/03-firebase/images/iaas-paas-saas.png
+![IAAS-PAAS-SAAS](mofjs/03-firebase/images/iaas-paas-saas.png)
 
 ---
 
 ## Layanan Cloud Computing
 
----?image=mofjs/03-firebase/images/iaas-paas-saas-example.png
+![Cloud Services](mofjs/03-firebase/images/iaas-paas-saas-example.png)
 
 ---
 
 # Firebase
 
----?image=mofjs/03-firebase/images/firebase-logo.png
+![Firebase Logo](mofjs/03-firebase/images/firebase-logo.png)
 
 ---
 
 ## Sejarah singkat
 
----?image=mofjs/03-firebase/images/firebase-team.jpg
+![Firebase Team](mofjs/03-firebase/images/firebase-team.jpg)
 
 ---
 
@@ -53,13 +53,13 @@ Note:
 
 ## Layanan Firebase
 
----?image=mofjs/03-firebase/images/firebase-services.jpg
+![Firebase Services](mofjs/03-firebase/images/firebase-services.jpg)
 
 ---
 
 ## Authentication
 
----?image=mofjs/03-firebase/images/firebase-auth.png
+![Firebase Auth](mofjs/03-firebase/images/firebase-auth.png)
 
 - layanan autentikasi pengguna
 - tampilan login siap pakai
@@ -76,7 +76,7 @@ Note:
 
 ## Realtime Database & Cloud Firestore
 
----?image=mofjs/03-firebase/images/firebase-rtdb.jpg
+![Firebase RTDB](mofjs/03-firebase/images/firebase-rtdb.jpg)
 
 - cloud-hosted NoSQL database
 - real time syncing
@@ -85,7 +85,7 @@ Note:
 
 ## Hosting
 
----?image=mofjs/03-firebase/images/firebase-hosting.jpg
+![Firebase Hosting](mofjs/03-firebase/images/firebase-hosting.jpg)
 
 - static site hosting
 - global CDN
@@ -96,7 +96,7 @@ Note:
 
 ## Cloud Storage
 
----?image=mofjs/03-firebase/images/firebase-storage.jpg
+![Firebase Storage](mofjs/03-firebase/images/firebase-storage.jpg)
 
 - upload file/content
 - menggunakan Google Cloud Storage
@@ -104,7 +104,7 @@ Note:
 
 ## Cloud Messaging
 
----?image=mofjs/03-firebase/images/firebase-messaging.png
+![Firebase Messaging](mofjs/03-firebase/images/firebase-messaging.png)
 
 - push message service
 - target segment / topic subscriber
@@ -112,7 +112,7 @@ Note:
 
 ## Cloud Functions
 
----?image=mofjs/03-firebase/images/firebase-functions.png
+![Firebase Functions](mofjs/03-firebase/images/firebase-functions.png)
 
 - FaaS => Functions as a Service
 - fungsi bisa dijalankan dengan http request (membuat REST API)
@@ -132,7 +132,7 @@ Note:
 
 # Percobaan
 
----?image=common/memes/show-me-the-code.jpg
+![Show Me The Code](common/memes/show-me-the-code.jpg)
 
 ---
 
