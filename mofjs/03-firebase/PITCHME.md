@@ -53,7 +53,7 @@ Note:
 
 ## Layanan Firebase
 
-![Firebase Services](mofjs/03-firebase/images/firebase-services.jpg)
+![Firebase Services](mofjs/03-firebase/images/firebase-services.png)
 
 ---
 
@@ -74,6 +74,8 @@ Note:
   - Github
 - Custom authentication
 
+---
+
 ## Realtime Database & Cloud Firestore
 
 ![Firebase RTDB](mofjs/03-firebase/images/firebase-rtdb.jpg)
@@ -82,6 +84,8 @@ Note:
 - real time syncing
 - mobile & web SDK
 - offline cache & sync
+
+---
 
 ## Hosting
 
@@ -94,6 +98,8 @@ Note:
 - versioning / rollback
 - baru: integrasi Google Cloud Run
 
+---
+
 ## Cloud Storage
 
 ![Firebase Storage](mofjs/03-firebase/images/firebase-storage.jpg)
@@ -101,6 +107,8 @@ Note:
 - upload file/content
 - menggunakan Google Cloud Storage
 - simple folder/file system
+
+---
 
 ## Cloud Messaging
 
@@ -110,6 +118,8 @@ Note:
 - target segment / topic subscriber
 - layanan GCM disatukan dengan FCM
 
+---
+
 ## Cloud Functions
 
 ![Firebase Functions](mofjs/03-firebase/images/firebase-functions.png)
@@ -118,6 +128,8 @@ Note:
 - fungsi bisa dijalankan dengan http request (membuat REST API)
 - fungsi bisa dipicu karena perubahan di database, registrasi user, upload file, dll.
 - Node.js v6.x atau v8.x
+
+---
 
 ## Layanan lainnya
 
