@@ -1,0 +1,29 @@
+{
+  "name": "talks",
+  "version": "1.0.0",
+  "description": "Berisi bahan presentasi pada berbagai kesempatan acara.",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rimraf dist/",
+    "start": "npm run clean && parcel src/**/*.html --no-cache",
+    "build": "npm run clean && parcel build src/**/*.html --no-cache --no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mblonyox/talks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mblonyox/talks/issues"
+  },
+  "homepage": "https://github.com/mblonyox/talks#readme",
+  "dependencies": {
+    "reveal.js": "^3.8.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "rimraf": "^2.6.3"
+  }
+}
