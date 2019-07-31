@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "clean": "rimraf dist/",
-    "start": "npm run clean && parcel src/**/*.html --no-cache",
-    "build": "npm run clean && parcel build src/**/*.html --no-cache --no-source-maps"
+    "start": "npm run clean && parcel src/index.html --no-cache",
+    "build": "npm run clean && parcel build src/index.html --no-cache --no-source-maps"
   },
   "repository": {
     "type": "git",
@@ -20,10 +20,17 @@
   },
   "homepage": "https://github.com/mblonyox/talks#readme",
   "dependencies": {
-    "reveal.js": "^3.8.0"
+    "animate.css": "^3.7.2",
+    "eagle.js": "^0.6.0",
+    "reveal.js": "^3.8.0",
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.3"
   },
   "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.0",
     "parcel-bundler": "^1.12.3",
-    "rimraf": "^2.6.3"
+    "pug": "^2.0.4",
+    "rimraf": "^2.6.3",
+    "vue-template-compiler": "^2.6.10"
   }
 }
