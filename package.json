@@ -22,7 +22,7 @@
   "dependencies": {
     "animate.css": "^3.7.2",
     "eagle.js": "^0.6.0",
-    "reveal.js": "^3.8.0",
+    "reveal.js": "^4.3.0",
     "vue": "^2.6.10",
     "vue-hot-reload-api": "^2.3.3"
   },
