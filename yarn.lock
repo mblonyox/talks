@@ -2622,14 +2622,6 @@ html-tags@^1.0.0:
   resolved "https://registry.yarnpkg.com/html-tags/-/html-tags-1.2.0.tgz#c78de65b5663aa597989dd2b7ab49200d7e4db98"
   integrity sha1-x43mW1Zjqll5id0rerSSANfk25g=
 
-htmlize@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/htmlize/-/htmlize-1.0.0.tgz#6c58c3e1b4e0f56245d56183b293e4b0ac9c6d23"
-  integrity sha1-bFjD4bTg9WJF1WGDspPksKycbSM=
-  dependencies:
-    sizzlify "^1.0.2"
-    xmldom "^0.1.22"
-
 htmlnano@^0.2.2:
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/htmlnano/-/htmlnano-0.2.4.tgz#c9717b46f4186bdd1df555427d7689c1005c3b86"
@@ -3815,15 +3807,6 @@ parcel-bundler@^1.12.3:
     v8-compile-cache "^2.0.0"
     ws "^5.1.1"
 
-parcel-plugin-pre-dist@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/parcel-plugin-pre-dist/-/parcel-plugin-pre-dist-1.0.4.tgz#eb6e4e19eed77fd43b54440d8e47709060006a46"
-  integrity sha512-h3h2wNFxmLZYpgpNKVTFvQHD3Z4TkHvVhF1uw4fd1+nFyiCnKQ/RIw/qII+L7Z7HasytezwglsXBlqn3n0lApA==
-  dependencies:
-    htmlize "^1.0.0"
-    parcel-bundler "^1.12.3"
-    rimraf "^2.6.3"
-
 parse-asn1@^5.0.0:
   version "5.1.4"
   resolved "https://registry.yarnpkg.com/parse-asn1/-/parse-asn1-5.1.4.tgz#37f6628f823fbdeb2273b4d540434a22f3ef1fcc"
@@ -4459,9 +4442,9 @@ q@^1.1.2:
   integrity sha1-fjL3W0E4EpHQRhHxvxQQmsAGUdc=
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 querystring-es3@^0.2.0:
   version "0.2.1"
@@ -4903,19 +4886,6 @@ simple-swizzle@^0.2.2:
   integrity sha1-pNprY1/8zMoz9w0Xy5JZLeleVXo=
   dependencies:
     is-arrayish "^0.3.1"
-
-sizzle@^2.3.0:
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/sizzle/-/sizzle-2.3.4.tgz#b0364988863863cac2942dc0bf40d1a637f38fb6"
-  integrity sha512-Mf37VjirD7RqCVeYgI8jb5K0DymIho/jNJqDgIkMs4cgKbEkvsow8Q6hpvF7Zmys9iEif0oW41hgbeWVZwABJw==
-
-sizzlify@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/sizzlify/-/sizzlify-1.0.2.tgz#a645ebc98922e433191e1af474a7ab78f65c0373"
-  integrity sha1-pkXryYki5DMZHhr0dKerePZcA3M=
-  dependencies:
-    sizzle "^2.3.0"
-    xmldom "^0.1.22"
 
 snapdragon-node@^2.0.1:
   version "2.1.1"
@@ -5685,11 +5655,6 @@ xmlchars@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/xmlchars/-/xmlchars-2.1.1.tgz#ef1a81c05bff629c2280007f12daca21bd6f6c93"
   integrity sha512-7hew1RPJ1iIuje/Y01bGD/mXokXxegAgVS+e+E0wSi2ILHQkYAH1+JXARwTjZSM4Z4Z+c73aKspEcqj+zPPL/w==
-
-xmldom@^0.1.22, xmldom@^0.1.27:
-  version "0.1.27"
-  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.1.27.tgz#d501f97b3bdb403af8ef9ecc20573187aadac0e9"
-  integrity sha1-1QH5ezvbQDr4757MIFcxh6rawOk=
 
 xtend@^4.0.0, xtend@~4.0.1:
   version "4.0.2"
